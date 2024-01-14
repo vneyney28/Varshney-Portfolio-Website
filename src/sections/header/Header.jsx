@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <h3 data-aos="fade-up">Varshney Aditya</h3>
         <p data-aos="fade-up">
-          Dedicated individual with expertise in Data Structures and Algorithms (DSA) and a strong background in Front-End Web Development. Armed with a solid academic foundation in computer science, I bring a dynamic skill set that includes proficiency in HTML, CSS, JavaScript, and modern web frameworks. I am adept at problem-solving, quick to adapt to emerging technologies, and thrive in collaborative environments. Sports Enthusiast with a university gold medal in middle-long distance Running & a part of the university gold medalist football team (4x Zonals, 2×State).
+          Dedicated individual with expertise in Data Structures and Algorithms (DSA) and a strong background in Front-End Web Development. Armed with a solid academic foundation in computer science, I bring a dynamic skill set that includes proficiency in HTML, CSS, JavaScript, and modern web frameworks. I am adept at problem-solving, quick to adapt to emerging technologies, and thrive in collaborative environments. Sports Enthusiast with a university gold medal in middle-long distance Running & a part of the university gold medalist football team (5x Zonals, 3×State).
         </p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contacts" className="btn primary">
